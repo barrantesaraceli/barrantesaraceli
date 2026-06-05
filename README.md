@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Araceli</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 💻 I'm currently working as **Consumer Intelligence Analyst.**
+- 💻 I'm currently working as **Digital Analyst.**
 
 - 📄 I'm looking to grow as **a Data Analyst, so I started working on my portfolio.**
 
-- 📊 I use tools like SQL and Power BI **to turn data into actionable insights.**
+- 📊 I use tools like SQL, Looker Studio and Power BI **to turn data into actionable insights.**
 
 - 🚀 You can find my LinkedIn profile at: [www.linkedin.com/in/araceli-barrantes-gonzález](www.linkedin.com/in/araceli-barrantes-gonzález)
 
